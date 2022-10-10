@@ -1,9 +1,13 @@
 body{
-    background-color: black;
-    color: aliceblue;
+    background-color: gray;
+    color: orange;
     font-size: large;
 }
 
 img{
     width: 500px;
+}
+
+a{
+    color: red;
 }
